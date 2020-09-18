@@ -1,0 +1,6 @@
+connexion == 1.1.15
+Werkzeug == 0.16.1
+python_dateutil == 2.6.0
+setuptools >= 21.0.0
+pika == 1.1.0
+kazoo == 2.6.0
